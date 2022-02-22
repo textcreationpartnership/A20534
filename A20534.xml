@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remedy against priuat contentions A godly and fruitfull sermon on Iames, 4.1. &amp;c. Wherin is at large discouered the hatefulnes, and perniciousnesse of priuate iars and contentions, with manifold remedies against the same. By Mr. Iohn Dod.</title>
+            <author>Dod, John, 1549?-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20534</idno>
+            <idno type="STC">STC 6942</idno>
+            <idno type="STC">ESTC S116344</idno>
+            <idno type="EEBO-CITATION">99851561</idno>
+            <idno type="PROQUEST">99851561</idno>
+            <idno type="VID">16841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1659:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remedy against priuat contentions A godly and fruitfull sermon on Iames, 4.1. &amp;c. Wherin is at large discouered the hatefulnes, and perniciousnesse of priuate iars and contentions, with manifold remedies against the same. By Mr. Iohn Dod.</title>
+                  <author>Dod, John, 1549?-1645.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Humfrey Lownes, for Thomas Man, and are to be sould at the signe of the Talbot in Pater noster rowe,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A remedy against priuate contentions.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16841:1" rendition="simple:additions"/>
+            <p> A REMEDY AGAINST PRIVAT CONTENTIONS.</p>
+            <p>A GODLY AND FRVITFVLL Sermon on <hi>Iames,</hi> 4. 1. &amp;c.</p>
+            <p>WHERIN IS AT LARGE DISCO<g ref="char:EOLhyphen"/>uered the hatefulnes, and perniciouſneſſe of priuate Iars and Contentions, with manifold remedies againſt the ſame.</p>
+            <p>By M<hi rend="sup">r</hi>. IOHN DOD.</p>
+            <q>
+               <bibl>2. Cor. 10. 3</bibl>
+               <p>
+                  <hi>The weapons of our warfare are not carnall, but migh<g ref="char:EOLhyphen"/>tie through God to caſt downe holds.</hi>
+               </p>
+            </q>
+            <figure>
+               <figDesc>woodcut of masks and flowers</figDesc>
+            </figure>
+            <p>
+               <hi>AT LONDON</hi> Printed by <hi>Humfrey Lownes,</hi> for <hi>Thomas Man,</hi> and are to be ſould at the ſigne of the Talbot in Pater noſter rowe. 1614.</p>
+         </div>
+         <div type="doctrines">
+            <pb n="2" facs="tcp:16841:2"/>
+            <head>
+               <hi>The points of Doctrine handled in the</hi> Sermon following.</head>
+            <list>
+               <item>Doctrine 1. It is a most horrible ſinne and ſhame for Chriſtians to liue in strife and contention.</item>
+               <item>Doctrine 2 Our owne diſtempered affections are the cauſe of conten<g ref="char:EOLhyphen"/>tion with others.</item>
+               <item>Doctrine 3 Whoſoeuer is led by his luſts, neuer maketh a thriuing or a ſauing bargaine of it.</item>
+               <item>Doctrine 4 Earthly minded men are ſtill ſubiect to bee vexed with enuie.</item>
+               <item>Doctrine 5 Prayer is the beſt meanes to bee prouided of all needfull things.</item>
+               <item>Doctrine 6 It is moſt iust, that God ſhould denie and reiect their prayers, who aske of him earthly things for worldly reſpects.</item>
+               <item>Doctrine 7 It is a dangerous and damnable kind of adulterie to ſet our minds on earthly things.</item>
+               <item>Doctrine 8 All men are esteemed of God as they are affected.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:16841:2"/>
+            <head>A REMEDIE AGAINST Priuate Contentions.</head>
+            <epigraph>
+               <bibl>Iames 4. 1. &amp;c.</bibl>
+               <q>
+                  <p n="1">1 <hi>From whence are wars and contentions among you? are they not hence, euen of your luſts, that fight in your members?</hi>
+                  </p>
+                  <p n="2">2 <hi>Ye luſt and haue not: ye enuie and haue indignation, and cannot obtaine: yee fight and warre and get nothing, becauſe yee aske not.</hi>
+                  </p>
+                  <p n="3">3 <hi>Yee aske and receiue not, becauſe ye aske amiſſe, that yee might conſume it on your luſts.</hi>
+                  </p>
+                  <p n="4">4 <hi>Yee Adulterers and Adultereſſes, know yee not that the amitie of the world is the enmitie of God? Whoſoeuer there<g ref="char:EOLhyphen"/>fore will be a friend to the world, maketh himſelfe the enemie of God.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the former Chapter the Apo<g ref="char:EOLhyphen"/>ſtle had ſharply reproued them for that bitter enuying &amp; ſtrife &amp; contention that was among them, perſwading them vnto peace and louing agreement: but becauſe they would bee rea<g ref="char:EOLhyphen"/>dy to anſwere, that they liked well enough of peace &amp; vnitie, <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> but they had ſo many vvrongs and indignities, ſo many occaſions of griefe &amp; diſcontentment offered vnto them, that they could not auoide brawles and iarres; and there<g ref="char:EOLhyphen"/>fore they were not to be blamed for their diſſenſions, but
+<pb n="4" facs="tcp:16841:3"/> all the fault was in others that prouoked them hereunto.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To this he anſweres in the beginning of this Chapter; ſaying, <hi>From whence are warres and contentions among you? are they not hence, euen of your lusts?</hi> As if hee ſhould haue ſaid, vvill you now lay the fault of your iarring and con<g ref="char:EOLhyphen"/>tending vpon others? If you doe ſo, you little know your owne hearts: for all your diſtempers proceed from no o<g ref="char:EOLhyphen"/>ther cauſe, but from your owne luſts, that is, your ouer<g ref="char:EOLhyphen"/>eager deſire of earthly things, <hi>viz.</hi> of profit, pleaſure, or credit: and theſe ſtrong vvorldly affections muſt needs bring forth ſuch effects, becauſe they fight in your mem<g ref="char:EOLhyphen"/>bers, that is, in the powers of your ſoule eſpecially: yet ſo, as alſo they breake forth and ſhew themſelues in the parts of the bodie. They trouble your minds and memories, &amp; diſquiet your wils and affections, cauſing you one while to thinke well of ſuch a thing or ſuch a perſon, and by and by to diſlike the ſame: one while to wiſh for this or that: preſently after, not to care for it, nay many times to abhor it: hence ariſeth a ciuill warre (as it were) vvithin your ſelues, and thence it is that you contend with others: for he will accord vvith none that cannot agree vvith him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p>Next, he ſets before them the effect of theſe wordly de<g ref="char:EOLhyphen"/>ſires, verſe 2. <hi>Ye luſt and haue not,</hi> as who ſhould ſay, what doe you get by giuing place to your luſts? The more you luſt, the leſſe you haue.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> And where they might thinke themſelues hardly char<g ref="char:EOLhyphen"/>ged, and that this accuſation of earthly luſts and affecti<g ref="char:EOLhyphen"/>ons could not be proued againſt them:<label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Yes (ſaith hee) it will plainely appeare by the effects, in that yee enuie, and haue indignation one againſt another: now if you did not care for and loue the world, you would neuer enuie thoſe that goe beyond you in wordly things.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> Further it is added, <hi>Yee fight and warre and get nothing.</hi> Then belike (might ſome ſay) wee are not Gods children, if things be thus farre amiſſe on our parts, and God alſo deale ſo ſeuerely vvith vs. <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Anſw.</hi> Nay, the Apoſtle doth
+<pb n="5" facs="tcp:16841:3"/> not conclude any ſuch matter, but ſayes thus much in ef<g ref="char:EOLhyphen"/>fect, you may be Chriſtians (many of you) though very carnall Chriſtians<g ref="char:punc">▪</g> and children you may bee, though ill children: neither is the Lord to bee charged with ouer<g ref="char:EOLhyphen"/>ſeuere dealing: no, it is not the hardnſſe of the father, that vvill not grant, but the badneſſe of the children that will not aske: that is the cauſe why you get nothing: ſo that it was not the want of friends, nor the want of means that cauſed them to be in neceſſity, but the want of praier, and ſo conſequently of a faithfull heart, and fitted to re<g ref="char:EOLhyphen"/>ceiue the things they prayed for.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But here they would reply again, (as hypocriſie makes men full of ſhifting) and ſay, you charge vs that wee doe not pray: that is not ſo, I haue prayed againe and againe, and yet am neuer the better. <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Indeed (ſaith hee) <hi>Yee aske, and yet ye receiue not:</hi> and why? <hi>Becauſe ye aske amiſſe.</hi> As if he had ſaid, if ye ſpeede not in prayer, it is certaine all is not well in your prayers: for that is a key to open Gods treaſurie; neither is his eare <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer ſhut againſt the faithfull ſupplications of his ſeruants: and hereby doth it appeare that you aske amiſs, in that ye aske, <hi>That ye might conſume it vpon your lusts.</hi> They would not be ſo abſurd, as to ſay ſo to God, Lord giue me this, that I may beſtow it vpon my luſts: but that was their purpoſe &amp; intent; which is euident by this, that the ſcope and drift of their petitions vvas for earthly things: if they were ſicke, oh how earneſt would they be for wealth! if in debt, what importunitie vvould they vſe to get out it of? and ſo for other the like matters: but why did they aske theſe worldly things? Euen for worldly reſpects: not to ſerue God better, but to ſerue themſelues: they deſired health, that they might purſue their commodities, or follow their pleaſures and delights: they asked wealth, to the intent they might hold vp their heads with the beſt, that they might haue larger main<g ref="char:EOLhyphen"/>tenance, that they might better their apparell, and their diet, &amp;c.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> What if we doe deſire theſe things in thoſe regards? is
+<pb n="6" facs="tcp:16841:4"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> that any ſuch great fault? <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I will tell you (ſaith the holy ghoſt) <hi>Yee adulterers and adultereſſes, &amp;c.</hi> As if he ſhould haue ſaid, you wretched and ſinfull men and women; doe you imagine that God doth beſtow theſe things vpon you that you ſhould abuſe them to his diſhonour, and to the ſatisfying of your owne carnall deſires? Your health to idleneſſe and wantonneſſe, your wealth to pride and ex<g ref="char:EOLhyphen"/>ceſſe: this is farre from the Lords meaning. And the hay<g ref="char:EOLhyphen"/>nouſneſſe of this ſinne will appeare euidently by the ſimi<g ref="char:EOLhyphen"/>litude heere vſed: Put caſe a wife ſhould bee alwaies whi<g ref="char:EOLhyphen"/>ning for money and larger allowance, and would neuer let her husband bee at peace, but night and day be at him for the granting of her requeſt; and her husband ſhould demand of her what ſhe would doe with it? if ſhe ſhould anſwere, I haue an affection to ſuch an adulterer, and I haue maintained him thus long, &amp; would faine haue him to be in his brauerie ſtill; vvould this ſuit pleaſe her huſ<g ref="char:EOLhyphen"/>band? Nay would hee not abhorre both her and her re<g ref="char:EOLhyphen"/>queſt? yet this is the caſe of all earthly minded men: they would faine haue theſe outward things, and what would they doe with them? euen ſpend them vpon their owne luſts, and that is to commit ſpirituall fornication againſt the Lord: in which regard he is ſo round with them in this place; <hi>Yee adulterers, and adultereſſes, know ye not that the loue of the world is the enmitie of God?</hi> It is not onely ſpiri<g ref="char:EOLhyphen"/>tuall adulterie, but enmitie againſt God: in ſo much that he concludeth in the words immediatly following: <hi>Who<g ref="char:EOLhyphen"/>ſoeuer therfore will be a friend of the world:</hi> that is, liue as vvordly men doe, for his diet, for his apparell, for his carriage, for his drifts and purpoſes, &amp;c. ſuch an one <hi>ma<g ref="char:EOLhyphen"/>keth himſelfe the enemie of God:</hi> he is ſo indeed, whatſoeuer he conceiue of Gods loue towards him, and therefore will God ſhew himſelfe an enemy toward him.</p>
+            <p>The drift (wee ſee) of theſe words is to draw the people of God from thoſe miſerable contentions and vexations which were among them: which hee doth by rebuking them, and that for ſpeciall faults.</p>
+            <pb n="7" facs="tcp:16841:4"/>
+            <list>
+               <item>1. Some inward, to wit,
+<list>
+                     <item>1. Their luſting after, and immoderate deſiring of earthly things.</item>
+                     <item>2. Their enuie that others ſhould ſpeede better then themſelues.</item>
+                  </list>
+               </item>
+               <item>2. Some outward, viz. brawling and ſtrife, about which he ſpends many words, becauſe almoſt all their life was ſpent therein. From both which he terrifies them by the ill effects. Firſt, that they got nothing. Secondly, that they endangered their owne ſoules in making them<g ref="char:EOLhyphen"/>ſelues adulterers &amp; adultereſſes, and ſo enemies to God, and God to them. And thus much for the meaning and order of the words.</item>
+            </list>
+            <p>Verſ. 1. <hi>From whence are warres and contentions among you?</hi> namely that are profeſſors. In that he doth ſo ſharpely take them vp for their mutuall diſcord and diſſenſion, the generall doctrine is, that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <note place="margin">Strife a great ſinne.</note> It is a moſt horrible ſinne and ſhame for Chriſtians to liue in ſtrife and contention, and to breake out into braw<g ref="char:EOLhyphen"/>ling and paſſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, the cauſes are verie bad, one of which the Apoſtle pointeth at where he ſaith, <hi>Whereas there is among you en<g ref="char:EOLhyphen"/>uying and ſtrife, and diuiſions, are yee not carnall, and walke as men?</hi> 
+               <note place="margin">1 Cor. 3. 3</note> as if he ſhould haue ſaid, when you are male content, and paſſionate, and euer falling out one with another, doe you thinke that this is from faith, and not from the fleſh? yes ſurely it is euen from the fleſh: for where there is bitter ſtrife and enuying in the heart, all the wiſdome that ſuch are led by, is earthly, ſenſuall and diuelliſh: and this may be <note place="margin">Iam. 3. 14. 15</note> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> the ſecond reaſon, why contention is ſuch a grieuous ſin, namely, Becauſe thoſe that are therunto giuen, are led not onely by ſoil a guide as there owne ſenſuall wiſdome, that was neuer taught them by God and his word, but farther they are guided by Sathan for the Apoſtle ſaith, <note place="margin">Iames 3</note> their wiſ<g ref="char:EOLhyphen"/>dome is diuelliſh: now if it be a foule ſhame to be led by ſenſe as a beaſt, what is it to be led by Satan as his vaſſal?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Another cauſe of this ſinne is giuen by <hi>Salomon,</hi> where
+<pb n="8" facs="tcp:16841:5"/> hee ſaith, <note place="margin">Prou. 13. 10.</note> 
+               <hi>Onely through pride man maketh contention.</hi> So much hautineſſe as there is in the heart, ſo much diſcon<g ref="char:EOLhyphen"/>tentment are men ſubiect vnto: if others wrong them in<g ref="char:EOLhyphen"/>deed, they cannot beare it: if it be but in their conceit, all is one, they will chafe and fret at it: and all this proceeds hence, that they thinke better of themſelues then either God, or men doe, or then in truth there is any iuſt cauſe why any ſhould doe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">The effects </seg>2</label> Secondly, as the cauſes of this ſinne are ill, ſo are the ef<g ref="char:EOLhyphen"/>fects ſutable: <note place="margin">Iam. 3. 16.</note> for where <hi>there is enuying and ſtrife, there is ſedition, and all manner of euill workes.</hi> In what heart, or in what houſe ſoeuer thoſe vices reigne, the Lord ſeeth, and men may euidently perceiue, that there are euil thoughts, euill words, euill practiſes of all kinds: for there the diuell and ſinne beare ſway, and fill the places with all manner of pollutions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Effect </seg>2</label> Further, as contention puls on all euill, ſo it hinders all good: it makes the parties that they cannot pray; for in all our requeſts to God, wee muſt lift vp pure hands, with<g ref="char:EOLhyphen"/>out wrath, &amp;c. they cannot heare, becauſe good hearers <note place="margin">1. Tim. 2. 8</note> muſt be ſlow to wrath, <hi>and receiue the word with meekneſſe.</hi> 
+               <note place="margin">Iam. 1. 19.</note> As for the Lords ſupper, they cannot be meet partakers of it, becauſe it is a Sacrament of loue, and if wee would bee forgiuen, we muſt forgiue: in a word, they are vnfit for eue<g ref="char:EOLhyphen"/>ry good worke: for <hi>the wrath of man accompliſheth not the righteouſneſſe</hi> 
+               <note place="margin">Iam. 1. 20.</note> 
+               <hi>of God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, this is it which ruinates both perſons and fami<g ref="char:EOLhyphen"/>lies: for an <hi>houſe diuided againſt it ſelfe cannot ſtand:</hi> Nay <note place="margin">Luke 11. 17.</note> a kingdome (be it neuer ſo mightie) <hi>diuided againſt it ſelfe, ſhall be deſolate.</hi> And if this be a ſure thing, that where bre<g ref="char:EOLhyphen"/>thren dwell together in vnitie, God hath appointed his <note place="margin">Pſal. 133. 1. 3.</note> bleſſing and life for euermore, then it is as certaine on the other ſide that where men liue in continuall ſtrife, there God hath appointed his curſe, and death for euermore.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Firſt, for the reproofe of them that ſpend a great part of their time in fretting and quarrelling, becauſe things goe not ſo well as they would haue them. Some there are in<g ref="char:EOLhyphen"/>deed
+<pb n="9" facs="tcp:16841:5"/> that when they fall to open brawles, go by the worſe, becauſe they are ouer-matched, and therefore they will ſit and mope in a corner: but vnto ſuch <hi>Iames</hi> ſpeaketh, ſay<g ref="char:EOLhyphen"/>ing, <hi>Sigh not one againſt another.</hi> So that there are ſighers <note place="margin">Iam. 5. 9</note> as well as chiders, and both condemned by the word. Sigh one for another wee may (as if a friend or a child of ours haue ſinned, it is an happie thing if we can weepe in ſecret for them) but wee muſt not ſigh one againſt another, no more then we may chafe one againſt another. Wee muſt not when wee are alone muſe of the vnkindneſſe of ſuch and ſuch, and ſo grow to bitter thoughts againſt them: that is a wofull thing, and will bee a hard reckoning for vs at length: for (as <hi>Iames</hi> addeth) <hi>the Iudge is at the doore:</hi> and the Aſſiſes will be fearefull for all ſuch perſons.</p>
+            <p>If thy cauſe be good, and thy conſcience good, God is at hand to right all thy wrongs: but when men giue them<g ref="char:EOLhyphen"/>ſelues to fretting and bitter diſcontentment, it is as much in effect, as if they ſhould ſay, that God is no equall Iudge, and therefore they cannot reſt ſatisfied with his gouern<g ref="char:EOLhyphen"/>ment: yet are they ready enough in their diſtempered fits to prophane the name of God, by calling him to be iudge in their cauſes: as <hi>Sarah</hi> did, when her maid deſpiſed her. <hi>God be iudge between me and thee</hi> (ſaith ſhe to her husband) but if the Lord had come, ſhe would haue been the loſer. <note place="margin">Gen. 16. 5</note> For God being a moſt righteous Iudge, would haue exami<g ref="char:EOLhyphen"/>ned both parties, and then who would haue been found in the greater fault? <hi>Abraham</hi> tooke <hi>Hagar,</hi> but who was the cauſe of it? was not <hi>Sarah?</hi> the greateſt complainers and ex<g ref="char:EOLhyphen"/>claimers, are vſually moſt faulty themſelues: and therfore let chriſtians be aſhamed to be ſo clamorous &amp; contentious vpon euery occaſion: for to bee ſo vnpeaceable amongſt men, ſheweth that there is little acquaintance with the God of peace; therefore let vs rather goe from our owne right, and yeeld a little, then be ſtill falling out with our neighbours: better it is to loſe ſome of our outward com<g ref="char:EOLhyphen"/>modities, then to loſe our inward and outward peace.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But why ſhould I ſo abaſe my ſelfe, as to yeeld vnto
+<pb n="10" facs="tcp:16841:6"/> him? <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Nay why ſhould you be ſo baſe minded, as to yeeld vnto the diuell? for whoſoeuer giueth place vnto anger and wrath, giueth place vnto the diuell. Moſt abominable <note place="margin">Ephe. 4. 26. 27</note> therefore is that falling out which is amongſt profeſſors: though there be many things amiſſe in a familie, yet if there be mutuall loue and compaſſion, and tender heartednes, croſſes are made much eaſier, and burdens much lighter then elſe they would be: whereas if there be brawles in the familie, euery light affliction is made heauie: what a diſ<g ref="char:EOLhyphen"/>grace therefore is it for the ſubiects of the Prince of peace to be at ſuch variance among themſelues? It is for dogges and ſwine to be barking and biting one at another: but to ſee Sheepe or Lambes tearing one another, all the world would wonder at it: If then we profeſſe that Chriſt is our ſhep<g ref="char:EOLhyphen"/>heard, and wee his ſheepe, how can wee with any comfort looke him in the face, when wee ſo farre differ from the nature and properties of his ſheepe, in eating vp our owne heartes with griefes, and miniſtring continuall vexation vnto others, and biting and deuouring one another?</p>
+            <p>But heere will ſome obiections be made, for as euery one is more guiltie, ſo will he haue more colours to hide his corruptions from the view of the world. Some will grant that they are often diſcontented indeed, but they haue rea<g ref="char:EOLhyphen"/>ſon ſo to be. Let vs heare their reaſons then.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> One is, that they are prouoked. </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> But who can prouoke a ſheepe to bark and bite? true Chriſtian loue is not prouoked; ſo that it is not the prouo<g ref="char:EOLhyphen"/>cation without, but want of true loue with in and abun<g ref="char:EOLhyphen"/>dance <note place="margin">1. Cor. 13. 5</note> of ſelfe loue that cauſeth you to be ſo paſſionate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But who can chuſe but be angry at ſinne? that is it that mooueth me.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> But ſee whether this faire ſhew doe not proceed from foule hypocriſie, and the Lord open our eyes that we may ſee it. Your anger (you ſay) is from hatred of ſinne: well, let vs examine the matter a little.</p>
+            <p>Firſt, doe you hate your owne ſinnes, and haue they cauſed you as often to breake your ſleepe, as the iniuries of <note place="margin">Anger againſt ſinne how diſ<g ref="char:EOLhyphen"/>cerned.</note>
+               <pb n="11" facs="tcp:16841:6"/> others? Nay, that way they muſt needes confeſſe they are more ſparing: that then is nothing elſe but plaine diſſi<g ref="char:EOLhyphen"/>mulation, to pretend griefe for anothers ſinne, when you haue little or none for your owne.</p>
+            <p>Secondly, ſuch as grieue for the faults of any, and are deſirous to reforme them, will vſe a good &amp; diſcreet order in dealing with the parties, obſeruing all circumſtances for that ende. As namely, firſt the circumſta<g ref="char:cmbAbbrStroke">̄</g>ce of time, that they will not preſently vpon the co<g ref="char:cmbAbbrStroke">̄</g>mitting of the offence flie in their faces in the view of all the ſtanders by, ſeeking to diſgrace them to the vttermoſt, but wil waite the fitteſt opportunitie, when with moſt benefit and leaſt blemiſh to the party, they may help him againſt corruption. Second<g ref="char:EOLhyphen"/>ly, as euery ſin is greater, ſo they will be more incenſed a<g ref="char:EOLhyphen"/>gainſt it: and herein doth the hypocriſie of many appear, that they will bee more mooued at ſoome ſmall offence. wherein they themſelues are touched, then at a farre grea<g ref="char:EOLhyphen"/>ter matter, that nothing concernes their credit or com<g ref="char:EOLhyphen"/>moditie, though it do neuer ſo much concerne Gods glo<g ref="char:EOLhyphen"/>rie. Such may go masked vnder the vail of hypocriſie, but God will diſcouer their falſe pretences in the end, neither let them euer looke for comfort in the time of ſickneſſe or of death from ſuch kind of zeale againſt ſinne.</p>
+            <p>Indeed there is a corruption in all, and we are too ſenſi<g ref="char:EOLhyphen"/>ble of iniuries: but the godly doe condemne it in them<g ref="char:EOLhyphen"/>ſelues, &amp; are neuer content till they can be more troubled at ſinnes, whereby God is diſhonoured, then at infirmities, and iniuries, whereby they themſelues are wronged.</p>
+            <p>Thirdly, if any be diſpleaſed at ſinne, he wil vſe all good remedies for the healing thereof: he will reproue and ad<g ref="char:EOLhyphen"/>moniſh, and exhort, and all from a louing and mercifull heart, yea, hee will ioyne vnto theſe heartie prayer for a bleſſing vpon his indeauours. This we ſee in <hi>Moſes:</hi> hee was verie angrie againſt the ſin of the Iſraelites in making the golden calfe, and ſhewed his iuſt anger in executing iudgement vpon the ring leaders in that hainous offence: but withall we muſt note that he was neuer more feruent
+<pb n="12" facs="tcp:16841:7"/> in praier for them, then at that time. Thoſe therefore that <note place="margin">Exod. 32. 11</note> are ſo far moued, that they cannot ſpeake vnto the offen<g ref="char:EOLhyphen"/>ders in giuing them good &amp; louing aduice, nor ſpeake for them vnto God in putting vp hearty and earneſt requeſts, ſuch (I ſay) may be aſſured that their anger is not the zeale of the ſpirit, but the heate of the fleſh, which they can haue no comfort in, but muſt be humbled for it, &amp; leaue it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> A ſecond vſe of this is for inſtruction, that if euer vvee looke for peace with God and comfort in our ſoules, and good eſtimation among Gods children, then let vs take heed as of other ſinnes, ſo of this ſinne of paſſion and diſ<g ref="char:EOLhyphen"/>temper. Do men deale with vs as with enemies? let vs loue them. Do they wrong vs? let vs pray for them. Doe they <note place="margin">Mat. 5. 44<g ref="char:punc">▪</g>
+               </note> ſpeak euill of vs? let vs ſpeak the beſt of them &amp; to them: for that is Chriſt his counſell; &amp; hereby ſhall men knovv, that we are his Diſciples, if we loue one another: Iohn 13. 35. whereas otherwiſe they may ſuſpect vs to bee hypo<g ref="char:EOLhyphen"/>crites, if we hate one another.</p>
+            <p>And further, hereby ſhall we aſſure our harts <hi>before God, that we are of the truth,</hi> and that we do pertaine to his fami<g ref="char:EOLhyphen"/>ly: &amp; this euery Chriſtian that hath any acquaintance with <note place="margin">1. Iohn 3. 19</note> his own heart, will confeſſe, that when hee is moſt merci<g ref="char:EOLhyphen"/>full and moſt ready to put vp iniuries &amp; indignities, then he hath moſt comfortable aſſurance of his own ſaluation, and can moſt cheerefully looke vp vnto God in Chriſt, as one that hath intereſt in him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But how may a man become thus peaceable and quiet? it muſt needs be acknowledged that contention is a foule ſinne, &amp; an horrible ſhame: but how may I maſter my vi<g ref="char:EOLhyphen"/>olent paſſions, and become more mild and calme.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> The Lord telleth you hovv to vanquiſh, and kill this corruption: and one meanes is, </p>
+            <p>
+               <note place="margin">Remedies a<g ref="char:EOLhyphen"/>gainſt anger. Tit. 3. 2. 3<g ref="char:punc">▪</g>
+               </note> 1 Often to examine your own heart: the Apoſtle willeth men <hi>to ſhew all meekeneſſe toward all men.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But (might ſome ſay) I am of an haſtie nature, ready to bee prouoked, and therfore I cannot indure ſuch iniuries as men offer me. </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> But remember what you haue ſaid and done againſt
+<pb n="13" facs="tcp:16841:7"/> others, eſpecially againſt God, and that wil abate the pride of your heart. Haue not you <hi>beene vnwiſe, diſobedient, and liuing in malitiouſneſſe, and enuie, hatefull, and hating others?</hi> In which regard, the wiſe mans counſell is, that a man <note place="margin">Eccl. 7. 23. 24</note> ſhould not take notice of euery fault of his ſeruant, but paſſe by many: and why? becauſe euery mans ſoule can tell him though men cannot charge him, that he hath commited the like, or greater faults againſt God or men; which if we could well conſider, mens vnkindneſſes would ſeeme nothing in our eyes: for when our owne ſinnes lye heauie, others vvrongs lye light: and when we feele not the weight of ſinne in any good meaſure, euery trifling of<g ref="char:EOLhyphen"/>fence of men ſeemes an hainous crime vnto vs.</p>
+            <p>A ſecond helpe againſt wrathfull pasſions is, to be aſſu<g ref="char:EOLhyphen"/>red of the remisſion of our ſinnes. <hi>Bee yee curteous one to another</hi> (ſaith the Apoſtle) <hi>and tender hearted.</hi> So I will (will ſome ſay) ſo long as they vſe mee well: but if they deale otherwiſe, and begin to doe me wrong, they ſhall heare of it, whoſoeuer they bee. Oh deale not ſo (ſaith <hi>Paul) But forgiue one another, euen as God for Chriſt his ſake</hi> 
+               <note place="margin">Ephe. 4. vlt.</note> 
+               <hi>forgaue you.</hi> Seeing the Lord hath ſent his ſonne, and the ſonne hath giuen his blood, and the holy Ghoſt hath ſprinkled the ſame vpon your hearts, for the waſhing a<g ref="char:EOLhyphen"/>way of all your iniquities, ſtand not with men for ſmall pettie iniuries, but forgiue and forget them: and aſſuredly whoſoeuer hath the comfortable feeling of the pardon of his ſinnes, cannot but doe ſo. When <hi>Steuen</hi> ſaw Chriſt ſit<g ref="char:EOLhyphen"/>ting at the right hand of God in heauen, and was aſſured that he had ſaued him from his ſinnes, and that he ſhould forthwith goe vnto him, he could kneele downe, and with all meekeneſſe pray for his moſt bitter enemies, that were then ſtoning of him, neither weere they ſo mad againſt him to do him hurt, as he was earneſt with God for them to procure their good.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third and laſt remedie is to denie carnall reaſon: for that is anill guide that leadeth vs out of the way. Euer marke this in reuengeful perſons, when they are reproued
+<pb n="14" facs="tcp:16841:8"/> for their ſpitefull and malicious dealing, their anſwere is, had I not cauſe, had I not reaſon to do as I haue done? no, none at all: for what ſound reaſon can there bee againſt Gods reaſon, who ſaith, <hi>Reuenge not, &amp;c. for vengeance is mine, I will requite it, ſaith the Lord.</hi> It is his office which he hath appropriated vnto himſelfe, and they are intruders, yea traitors, that will goe about to thruſt God out of his iudgment ſeat. And therefore let not the diuell delude vs with this conceite, that wee haue reaſon for our brawling and quarrelling: for the beſt that can be ſaid for it, is this; that it is beaſtly and fleſhly reaſon, ſuch as the Lord eſtee<g ref="char:EOLhyphen"/>meth folly and frenſie, and enmitie againſt his maieſtie, <hi>Rom.</hi> 8. which will bring with it death and deſtruction of body and ſoule, if we yeeld vnto it, and be led by it.</p>
+            <p>
+               <hi>Are they not hence, euen of your luſts?</hi> Here he ſheweth the fountaine of all their diſcontentments: namely, their own vntamed affections: whatſoeuer occaſions there may be, that is the true cauſe: as the reaſon why a Lyon rageth and roreth, is not that any creature diſquieteth him, and raiſeth him vp, (for then a ſheep being ſtirred ſhould roar too) but that his naturall inclination draweth him there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <note place="margin">Luſt in the heart, the cauſe of contention.</note> The Doctrine hence to bee gathered is this, that, Our owne diſtempered luſts are the cauſe of all our ſtrife and contention with others. They make vs vnquiet in our ſelues, and ſo cauſe vs to diſquiet them that are about vs. Therefore it is ſaid, <hi>that fleſhly luſts doe fight againſt our</hi> 
+               <note place="margin">1. Pet. 2. 11</note> 
+               <hi>ſoules:</hi> they cauſe a continuall warre within a man, which inward combat with ones ſelfe, ſheweth it ſelfe oftentimes in outward iarring with men. Chriſt Ieſus had as great wrongs as euer man in this world had, yet was he neuer in any paſſion, or diſtemper: and why? becauſe he was quite voide of carnall affections. Before his conuerſion <hi>Paul</hi> was very boiſtrous and full of rage, but after that hee had ſpent the heat of his anger vpon his owne great ſinnes, he that had beene very froward became very meeke, and was able with patience to vndergo impriſonment, whipping,
+<pb n="15" facs="tcp:16841:8"/> ſtoning, reuiling, with any the like indignities: wee neuer heare this from him: what? ſhall I beare this? a man of my education, of my learning, of my gifts? ſhall I endure to liue in the ſtocks, hungrie and cold, and full of paines, &amp;c. No, no, theſe thoughts were farre from <hi>Paul:</hi> he was con<g ref="char:EOLhyphen"/>tent to ſuffer any thing, yea, to lay downe his life for the name of the Lord Ieſus, and that becauſe his luſts were ſubdued, and the venome thereof remoued.</p>
+            <p>Let euery Chriſtian looke backe vnto his diſpoſition before his calling; and who is there but ſhall find, that hee was full of enuie, haſtie and teſtie, and ready to bee prouo<g ref="char:EOLhyphen"/>ked? but ſince his conuerſion hee may ſay to the glorie of God, that he can beare that which hee could not before, and get out of that paſſion in a few houres, that was wont to hang vpon him many moneths: and as he growes more in grace, ſo ſhall it be better with him ſtill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> So often therefore as wee breake forth into any diſtem<g ref="char:EOLhyphen"/>pered ſpeeches, or actions, let vs know that wee haue a ſummons from God to take notice of our vnrulie affecti<g ref="char:EOLhyphen"/>ons. What, haue you forgotten your ſelfe? are you more wearie of your life then of your ſinne? then there is ſome<g ref="char:EOLhyphen"/>what within to bee conquered and brought vnder, and that ſhould bring you vpon your knees to become a ſuter vnto God: Lord I ſee by the fruits, that luſt is not ſo ta<g ref="char:EOLhyphen"/>med as it ſhould be; I am not able to maiſter it, grant thy ſtrength therefore vnto thy ſeruant that I may be able to preuaile againſt it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Secondly, this is for inſtruction, that if euer wee would liue comfortablie in regard of our ſelues or others, wee ſhould labour to haue the command of our owne hearts and minds. It is a maruellous errour in men and women to thinke, if I had ſo much liuing, ſo much credit and re<g ref="char:EOLhyphen"/>ſpect, and withall a ſtrong and healthfull bodie; then my heart would be at quiet: this is a foule and monſtrous de<g ref="char:EOLhyphen"/>luſion: what? will outward things heale a ſinfull ſoule? It is as abſurd, as if a man that hath his arme or his legge bro<g ref="char:EOLhyphen"/>ken, ſhould ſay, Oh if I had a ſute of cloth of Gold, or a
+<pb n="16" facs="tcp:16841:9"/> paire of ſilke ſtockings, or my chamber hanged with vel<g ref="char:EOLhyphen"/>uet, I ſhould feele no paine: euery man would thinke ſuch a one out of his wits, becauſe his paine is within his bodie, which thoſe outward things cannot remoue: ſo it is with euery ſtrong affection, and vnmaſtred deſire, they are corrupt humors cleauing vnto the ſoule; and therefore let the parties be ſhifted hither and thither, and haue their eſtate mended, and their reputation bettered, yet if they bee not healed within, they are neuer the neerer to any ſound contentment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <note place="margin">How to maſter ſtrong affecti<g ref="char:EOLhyphen"/>ons.</note> But how ſhould wee attaine to the maſtering of theſe boiſterous affections? </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Firſt, we muſt mortifie the deeds of the fleſh by the ſpi<g ref="char:EOLhyphen"/>rit: the beſt haue fleſh in them, but they muſt bee euer knocking of it downe. Now then we mortifie the fleſh by <note place="margin">Rom. 8.</note> the ſpirit, when we bring ſpirituall reaſons againſt the luſts thereof, and ſeeke to quench the flame thereof, by pow<g ref="char:EOLhyphen"/>ring water vpon it, and taking away the fuell that might maintain it. A man may haue perſwaſions from his friends, but thoſe will not kill his carnall deſires: but the perſwaſi<g ref="char:EOLhyphen"/>ons of the ſpirit will; and therefore wee ſhould vſe the arguments of Gods word for the crucifying of our fleſh.</p>
+            <p>But many take a contrary courſe, when they feele them<g ref="char:EOLhyphen"/>ſelues ſtirred, they aggrauate all the euils that are vpon them, and all the wrongs that are (in their conceit) offered vnto them, their memorie will forget no circumſtance of them. Neither will their tongues faile to amplifie them at the full; and hereby they imagine to eaſe themſelues: but alas this is to adde luſt to luſt, and to heape more drie wood on the fire, that burneth too vehemently alreadie: and therefore let them vſe Gods meanes, or neuer looke to liue quiet and peaceable daies.</p>
+            <p>A ſecond meanes to bring our boiſterous affections into ſubiection, is, to liue and labour diligently in a calling: for labour is appointed to humble the ſonnes of men, and whoſoeuer doth not vſe this medicine, may quickly make
+<pb n="17" facs="tcp:16841:9"/> worke enough for a whole towne: for idle perſons are al<g ref="char:EOLhyphen"/>waies paſſionate: and when they haue nothing elſe to do, they fall to conceits, and ſurmiſes, and ſuſpicions, and iea<g ref="char:EOLhyphen"/>louſies, and when the leaſt occaſion is offered, out comes all the filthie matter that hath beene breeding within them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, that we may get victorie ouer the ill affections that ſtirre within vs, wee muſt conſider that wee are Pil<g ref="char:EOLhyphen"/>grimes. 1. Pet. 2. 11: Many are verie impatient, and crie out of their miſerie that it is ſuch, as they neuer looke to liue merry day more: but what neede they trouble them ſelues about that, it may be they ſhall not liue an houre more: a Pilgrim is in his Inne at night and gone in the morning, and ſo may they: and why therefore ſhould they make ſuch a long and tedious matter of their croſſes? If they haue aſ<g ref="char:EOLhyphen"/>ſurance of heauen, their momentanie afflictions are no<g ref="char:EOLhyphen"/>thing in compariſon of that eternall crown of glory which ſhall bee beſtowed vpon them. If men would ceaſe loo<g ref="char:EOLhyphen"/>king and luſting after the temporall things which are ſeene, and faſten their hopes and deſires vpon the eternall things which are not ſeene; they would eſteeme and rec<g ref="char:EOLhyphen"/>kon their heauieſt griefes to bee verie light, and their longeſt afflictions to be ſhort and momentanie. 2. Cor. 4 17. 18.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly and laſtly, let vs conſider of that which was mentioned before, <hi>viz.</hi> that <hi>fleſhly luſts doe fight againſt our</hi> 
+               <note place="margin">1 Pet. 2. 1</note> 
+               <hi>ſoules.</hi> Thoſe that are in thraldome vnto them, thinke it good husbandrie to yeeld vnto them, and hope to better their eſtate thereby: but do they know what God ſaith in this matter?</p>
+            <p>Hee telleth them that they make warre againſt their ſoules: they blindfold their minds that they cannot ſee into ſpirituall things: they make their hearts fat and ſenſe<g ref="char:EOLhyphen"/>leſſe, that neither threatnings nor promiſes, iudgements nor mercies will any whit at all moue them.</p>
+            <p>Now when wee find in our ſelues theſe hurtfull affecti<g ref="char:EOLhyphen"/>ons and dangerous luſts, and we doe not onely feele them,
+<pb n="18" facs="tcp:16841:10"/> but others alſo far much the worſe thereby, were it not great madnes to nouriſh them ſtill within vs? Therefore let vs rather vſe theſe and all other good meanes to ſup<g ref="char:EOLhyphen"/>preſſe them, then any meanes at all to cheriſh and ſtreng<g ref="char:EOLhyphen"/>then the ſame.</p>
+            <p>Verſ. 2. <hi>Ye luſt and haue not.]</hi> In theſe words he ſetteth out the abſurditie of other luſts by the ill effects: they haue along and tedious ſeedes time, but all their labour and toile comes to nothing, they are altogether diſappointed of their expected harueſt: whence the Doctrine is, that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> 
+               <note place="margin">Nothing is gotten by yeelding to luſt.</note> Whoſoeuer yeeldeth vnto his luſtes, neuer makes a thriuing, nor a ſauing bargaine thereby: but the more he luſts, the more he lackes: and the more eager his deſires are, the more and greater his wants are likely to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, becauſe the loue of earthly things makes God his enemy. For hee that loues the World, the loue of God is not in him: but hee withdrawes his heart from God, and <note place="margin">1. Iohn. 2. 15 Iere. 17</note> goeth a whooring after the world; the ſetting of our affec<g ref="char:EOLhyphen"/>tions vpon the creature, maketh vs to be eſtranged from the Creator.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, as the deſire of earthly things, makes men impious againſt God, ſo doth it make them iniurious to<g ref="char:EOLhyphen"/>wards men: He that haſteth to bee rich cannot be innocent: <note place="margin">Pro.</note> and he that is greedie of gaine troubleth his owne houſe: and that which is ſaid of the exceſſiue deſire of gaine, holdes as true in all other ſinnefull luſtes, that he that is greedie of pleaſure, or credit, or any the like, is ſtill a troub<g ref="char:EOLhyphen"/>ler and diſquieter of thoſe with whom he liues: becauſe firſt his owne heart is poiſoned, and being diſtempered within, he muſt needs ſhew his diſtemper without.</p>
+            <p>Therefore the more God loues vs, the more he wil croſſe vs, ſo long as we ſet our hearts on lying vanities: for hee knowes, that if wee had them in that manner and meaſure as wee deſire, they would turne to our owne and others ex<g ref="char:EOLhyphen"/>ceeding great hurt and diſaduantage. For the more we de<g ref="char:EOLhyphen"/>ſire any earthly thing, the more we ſhall abuſe it, as the more we deſire any heauenly thing, the better we ſhal vſe it.</p>
+            <pb n="19" facs="tcp:16841:10"/>
+            <p> Therefore is it righteous with God to croſſe vs in our <note place="margin">Gen. 30. 1</note> affections, as he did <hi>Rahel:</hi> ſhe muſt needs haue children in all the haſte, or elſe ſhe would die in a paſſion. Alas ſhee was in hard caſe to die, and in ill caſe to haue children: for at that time ſhe would haue made Gods of her children, and an Idoll of God. But afterwards when ſhe had prayed and humbled her ſelfe, God gaue her children, becauſe then ſhee was fit to receiue them. And that is the reaſon why God delayes long, and puts off his ſeruants from year to yeare, euen becauſe they are vnfit to be partakers of his bleſſings ſooner; he could afford them preſent paiment, but he well conſiders, that the things which the fleſh much affects, it would much abuſe.</p>
+            <p>
+               <hi>Iſaac</hi> prayed for a ſonne twentie yeares, at length when <note place="margin">Gen. 25. 20. 26</note> he had gotten the victorie of himſelfe, and was content to wait, as long as God would haue him, the Lord forthwith granted his requeſt: and ſo dealeth hee yet ſtill with his deareſt children.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Sith boiſterous luſts doe both deſerue and bring vpon men manifold wants, this ſerues for inſtruction, that if we be pinched with neceſſities, and reſtrained of many things that we would full faine haue, let vs examine whether our deſires be not too immoderate towards thoſe things, and too eagerly ſet vpon them: and if vpon triall made, wee finde that it is ſo indeed, let vs know that we are not fit for them.</p>
+            <p>Therfore let vs neuer complaine of others, the world is hard, and mens hearts are hard: but let vs complaine of our ſelues, I want good affections: I want good preparati<g ref="char:EOLhyphen"/>on for Gods bleſſings: I am a ground that haue many rank weedes in mee, and all that while God hath ſomwhat elſe to doe, then to ſowe the ſeed of comfort on me. The next way to haue the world, is to deny the world: would a man be rich? let him be content to be poore: would a man in<g ref="char:EOLhyphen"/>ioy his health and ſtrength? let him ſo vſe the meanes of recouering his health, as withall to be content to remaine ſickly and weake, if it ſo ſeeme beſt to his heauenly fa<g ref="char:EOLhyphen"/>ther,
+<pb n="20" facs="tcp:16841:11"/> &amp;c. But if we deſire temporall riches more then ſpiri<g ref="char:EOLhyphen"/>tuall, and the health of the body, more then the health of the ſoule, it is iuſt we ſhould haue penurie, and not plenty, diſeaſed and not healthfull bodies.</p>
+            <p>Whereas if we can bring our willes to bee ſubiect vnto Gods, it ſhall not bee ſaid to vs, <hi>Yee luſt and haue not;</hi> but, <hi>the Lord will fulfill the deſires of thoſe that feare him.</hi> Other<g ref="char:EOLhyphen"/>wiſe, <note place="margin">Pſal<g ref="char:punc">▪</g> 45<g ref="char:punc">▪</g>
+               </note> though our deſires were granted, our ſoules would be as ſicke, or more ſicke then they were before.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> A ſecond vſe of this is, to teach vs, to bee content that God by many and grieuous croſſes ſhould maſter our in<g ref="char:EOLhyphen"/>temperate luſts: for the way to all proſperitie, is to be bro<g ref="char:EOLhyphen"/>ken of our headie and ſturdy affections.</p>
+            <p>Let vs alſo deſire to be in their companie, who wil deale moſt plainly and roundly againſt our corruptions: &amp; not wiſh to conuerſe with ſuch as will tell vs, indeede you are hardly vſed, they deale very iniuriouſly with you, in that they do not more reſpect you, in regard of your place &amp; of your parts, and of your education, &amp;c.</p>
+            <p>Alas what is this but to caſt oyle vpon the fire, and to make thoſe luſts a great deale ſtronger, which weere too too violent before? ſuch comforters may pleaſe vs for the preſent, but they will bring vs ſmart in ſtead of eaſe, and trouble in ſtead of peace in the end: But as for thoſe that will ſet themſelues with all their might againſt our luſts &amp; apply ſharp corraſiues where they perceiue much feſtered and dead fleſh, of all other they are to be eſteemed the beſt and trueſt and moſt faithfull friends.</p>
+            <p>
+               <hi>Ye enuie and haue indignation, and cannot obtaine.</hi> Where<g ref="char:EOLhyphen"/>as they might deny, that they had ſuch luſts in them, hee proueth it by this, that they did enuy one another: as if he ſhould haue ſaid, that which I affirmed in vvordes, I vvill make good by your deeds: you enuy that another ſhould be lookt after, that another ſhould haue more gay appa<g ref="char:EOLhyphen"/>rell, a better name, a better eſtate then your ſelues: doth not this cleerly ſhew that your hearts are full of luſt, when they are ſo full of enuy? for enuy is the very froth of luſt.</p>
+            <pb n="12" facs="tcp:16841:11"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> 
+               <note place="margin">Wordlings are ſtill vexed with enuy.</note> The doctrine hence to bee gathered is this, that thoſe that ſet their affections vpon earthly things, are not onely ſubiect to this miſerie, that they ſhall bee alwaies in want, but they ſhall withall bee euermore vexed at the proſperity of others: they ſhall be ſtil in torture at home and abroad, and whereſoeuer they are; for ſuch as ſet their mindes on the things of this world, cannot chuſe but repine when any thing goes from them vnto others; they think all loſt that they themſelues cannot enioy: for whereas the pro<g ref="char:EOLhyphen"/>pertie of Chriſtian loue is, not to ſeeke it owne things, it is the very nature of ſelfe-loue onely and wholly to ſeeke it <note place="margin">1. Cor. 13</note> owne things, and if it miſſe of them, it vvill cauſe the par<g ref="char:EOLhyphen"/>ties to grudge and repine.</p>
+            <p>This may be obſerued in <hi>Saul:</hi> when once <hi>Dauid</hi> vvas in credit aboue him, he had few quiet daies after, but vvas ſtill troubling of himſelfe and the whole land about <hi>Da<g ref="char:EOLhyphen"/>uid.</hi> The like may be ſeene in the Phariſies, they could not liue if Chriſt liued: and why? Chriſt caried away the cre<g ref="char:EOLhyphen"/>dit from them; and therfore they neuer ceaſed perſecu<g ref="char:EOLhyphen"/>ting him, vntill they had depriued him of his very life. So the Philiſtims being couetous, enuied <hi>Iſaac,</hi> and grew ſo mad againſt him, becauſe they ſaw him thriue beyond themſelues, that they vvould hurt the whole countrey and themſelues alſo rather then he ſhould proſper too faſt, and therefore they dammed vp the wells that his ſeruants had <note place="margin">Gen. 26. 15</note> digged, vvhich in thoſe hot countries vvere of exceding great vſe. So <hi>Rahel</hi> being poſſeſſed vvith an immoderate deſire of children, enuied her ſiſter <hi>Leah,</hi> becauſe ſhee was <note place="margin">Gen. 30. 3</note> fruitfull: her owne barrenneſſe did not ſo much diſcontent her, as her ſiſters fruitfulneſſe: and therfore rather then <hi>Leah</hi> ſhould goe beyond her, ſhe would haue her husband to defile himſelfe with her maid. Many ſuch <hi>Rahels</hi> there are in the world, who are not ſo much diſcontented and grieued at their own meaneneſſe, as at others highneſſe; at their owne baſeneſſe in apparell, as at the new faſhions of others, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Which may teach vs, when we find enuie in our ſelues,
+<pb n="22" facs="tcp:16841:12"/> to take notice that there is in vs a maruellous loue of earthly things. Many men and women, if they ſhould bee askt the queſtion, whether they luſted after earthly things or not, would anſwere, nay, they hope they haue not heard ſo many Sermons, nor made ſo many prayers, to ſo little purpoſe, that now at length they ſhould be ouertaken with the loue of ſuch trifles: but how ſay you to enuie? doth not that worke vpon you ſometimes? doth not others health, others eſtimation, others aduancement make you as it were ſicke now and then? indeed that they cannot wel deny: then you muſt needs confeſſe, that you are infected with luſt. If <hi>Rahel</hi> had not beene led with an eager deſire of children, ſhe would neuer haue enuied her ſiſter for bea<g ref="char:EOLhyphen"/>ring of children: and therefore thoſe haue a ſure teſtimo<g ref="char:EOLhyphen"/>ny of a ſound &amp; pure heart, that can be content with their owne corne, and wine and oyle: and that reſolue vvith themſelues: So I may haue peace with God and with mine owne conſcience, I will neuer trouble my ſelfe much, what others haue: Let God keepe me from ſinne while I liue, &amp; from hell when I die, and I ſhall doe well enough, &amp; haue great cauſe to reioyce in God, and to be thankfull for my portion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But heere Gods deare children may obiect, ſaying, I finde a loue vnto my credit, and commoditie, and eaſe ſtill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> So wee ſhall as long as wee carie fleſh about vvith vs: and the more pure the heart is, the ſooner and better will it ſpie blemiſhes in it ſelfe: but if we can keepe our ſelues from enuying at others wealth and credit, &amp;c. it is an in<g ref="char:EOLhyphen"/>fallible mark that the loue of earthly things doth not rule and raigne in vs.</p>
+            <p>
+               <hi>Yee fight and warre, and get nothing, becauſe yee aske not</hi> They might thinke, doth not God carie a hard hand a<g ref="char:EOLhyphen"/>gainſt vs, ſith wee deſire ſo much, and haue ſo little? no (ſaith the Apoſtle) you rather carrie an ill heart towards him: for you vſe all meanes of procuring your own miſe<g ref="char:EOLhyphen"/>rie, but no meanes at all of obtaining Gods mercie; and
+<pb n="23" facs="tcp:16841:12"/> therefore <hi>Yee get nothing becauſe ye aske not.</hi> Which is one principall meanes of pulling downe Gods bleſſings vpon his ſeruants. <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>5</label> 
+               <note place="margin">Prayer is the beſt meanes of promotion.</note> Doctrine, Prayer is the beſt meanes to bee prouided of all things needefull for this life, and the life to come. God is a good houſholder, and if his children would receiue good things from him, they muſt not fall toge<g ref="char:EOLhyphen"/>ther by the eares, nor grow to brawling and contending one with another (for that is the next way to make their Father ſcourge them all:) But they muſt betake themſelues to prayer, and become humble and earneſt ſuters vnto their Father, which is both the eaſieſt and the ſureſt courſe; God <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> hath promiſed that <hi>if we aske we ſhall obtaine:</hi> Mat. 7. 7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But ſome might ſay, I am a ſinner, compaſſed with ma<g ref="char:EOLhyphen"/>ny infirmities and frailties, and how then can I looke for hearing at his hands?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Why (ſaies Chriſt) <hi>if you that are euill, can giue good things vnto your children, how much more ſhall your heauenly</hi> 
+               <note place="margin">Luk. 11. 10. 12. 12. 13</note> 
+               <hi>Father, &amp;c.</hi> Though you ſee faults in your children, and there be the like in your ſelues, yet you can bee liberall to<g ref="char:EOLhyphen"/>wards them: how much more will God ſhewe himſelfe gratious to his children, being goodneſſe it ſelfe, and able to make his children as good as he would haue them to be? The prodigall ſonne may be a paterne of Gods fauoura<g ref="char:EOLhyphen"/>ble dealing in this behalfe: For when hee had loſt his wealth, his peace, his credit and all, hauing drowned him<g ref="char:EOLhyphen"/>ſelfe, in vile and abominable luſts, what had hee where<g ref="char:EOLhyphen"/>with to helpe himſelfe? euen the vnfained requeſts of an humble and penitent hart, which neuer can want happie ſucceſſe, when they are preſented to a mercifull and grati<g ref="char:EOLhyphen"/>ous father: what his ſucceſſe was, wee may reade at large, Luk. 15. Hence commeth that exhortation of the Apoſtle, <hi>In nothing bee carefull, but in all things let your requests bee</hi> 
+               <note place="margin">Phil. 4. 6</note> 
+               <hi>made knowne vnto God, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> But I haue many debts to pay, and many burthens to beare, and what good will prayer do me in theſe ſtraits?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Very great good: for if you can lay open your heart be<g ref="char:EOLhyphen"/>fore <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> God in prayer and thankſgiuing, the <hi>peace of God</hi>
+               <pb n="24" facs="tcp:16841:13"/> 
+               <hi>which paſſeth all vnderſtanding</hi> (ſuch as a naturall man can<g ref="char:EOLhyphen"/>not conceiue, nor a regenerate man till hee haue felt it) <hi>ſhall keepe your hartes and mindes in Chriſt Ieſus,</hi> that is, in a bleſſed communion with him: that look what Chriſt hath, you ſhall be ſur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o haue: haue you no power in your ſelfe? you ſhall haue it in Chriſt. Haue you no wealth in your houſe? Chriſt hath enough for you in his hand: but all our woe comes from this, that we loſe our communion with him, for want of faithfull and feruent prayer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> For the reproofe of our great negligence, vnbeleefe, and coldneſſe in prayer: thence it is that wee haue manie wants, becauſe we want the ſpirit of prayer, and ſeeke vnto other helpes rather then vnto our heauenly Father. If chil<g ref="char:EOLhyphen"/>dren ſhould runne from their parents to ſeruants, and ſtill be crying and complaining to them, their parents would not endure it: and if ſuch children ſhould bee ſtill bewai<g ref="char:EOLhyphen"/>ling their caſe, that neuer any were in ſuch miſerie as they, none would pitie them: haue they not a good and a rich father, (would men ſay) that would haue them to ſeeke vnto him for reliefe and maintenance, and cannot en<g ref="char:EOLhyphen"/>dure that they ſhould ſeeke vnto others? If it be thus, with naturall parents, how much more is it with our heauenly Father, who is farre more ready to heare and helpe, then the neareſt friends in the world? For when they will not afford vs reliefe, hee will: and when they are vnkind, hee will ſhewe himſelfe moſt kind vnto vs; and therefore haue we vnkindneſſe from men, that wee might draw neare to God himſelfe, and goe from thoſe broken Ceſternes which can hold no water, to the fountaine of liuing wa<g ref="char:EOLhyphen"/>ters where we may drinke freelie without reſtraint, and haue all our wants abundantly ſupplied.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This is for inſtruction, that if we would ſpeed well, wee ſhould vſe the meanes of ſpeeding well: for if we be plen<g ref="char:EOLhyphen"/>tifull in prayer, we ſhall be plentifull in comfort: accor<g ref="char:EOLhyphen"/>ding <note place="margin">Iohn. 16. 24</note> to that of our Sauiour, <hi>Aske that your ioy may be full.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Thirdly, here is matter of comfort for thoſe that are able to powre out their ſoules before God in prayer:
+<pb n="25" facs="tcp:16841:13"/> though there bee neuer ſo many ſtormes of ſorrow, they ſhall bee ſufficiently ſheltred in the middeſt of all.</p>
+            <p>It is a groſſe conceit for men to thinke, Alas my caſe is hard, I haue no friends, no money, no abilitie to labour in my vocation, &amp;c. But haue you the ſpirit of prayer? If you haue, you are in an happie eſtate: for if wee would conſider of things aright, who is in hard caſe, but hee that hath an hard heart? And who is in good caſe, but hee that hath a good conſcience, and a heart full of good meditations, which hee is euer and anon readie to poure out in Gods preſence? They that ſet not their friends nor themſelues on worke, ſo much as they ſet their faith aworke, they are the bleſſed people: they may aſſure themſelues that God will not faile them, nor forſake them.</p>
+            <p>Indeed wee muſt vſe the meanes to ſerue Gods proui<g ref="char:EOLhyphen"/>dence: but, for the ſucceſſe of things, wee muſt wholly put God in truſt with the ſame, and he will aſſuredly doe that which ſhall be good for vs.</p>
+            <p>Verſ. 3. <hi>Yee aske and receiue not, becauſe yee aske amiſſe.</hi> Here hee preuenteth an obiection that they might make, namely this, <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> We are iniuriouſlie dealt with, in that wee are blamed for not praying; for we crie and call vpon God day and night, and yet are neuer the better. <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> That is true (ſaith he) <hi>but yee receiue not, becauſe ye aske amiſſe,</hi> asking ſuch things as you may abuſe to Gods diſhonour, and that you purpoſe ſo to abuſe: for you will ſpend <hi>them vpon your luſts:</hi> And this is the cauſe why God reiecteth your praiers: <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>6</label> whence the Doctrine is, that God denieth vs carnall re<g ref="char:EOLhyphen"/>queſts. </p>
+            <p>It is moſt iuſt and equall that our praiers ſhould be re<g ref="char:EOLhyphen"/>iected, when we are more earneſt in asking earthly things which may bee abuſed, then heauenly and ſauing graces which cannot bee abuſed: and aime at ſeruing our owne turnes in the requeſts that we make, rather then at the glo<g ref="char:EOLhyphen"/>rifying of Gods holy name.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> The reaſon hereof is plaine: for ſuch cries are not in truth praiers, nor ſo eſteemed in Gods account. Hoſ. 7. 14.
+<pb n="26" facs="tcp:16841:14"/> 
+               <hi>They haue not</hi> (ſaith he) <hi>cried vnto me with their hearts, when they houled on their beds: they aſſemble themſelues for corne and wine, and they rebell againſt me.</hi>
+            </p>
+            <p>Theſe Iewes maruelled that God did not helpe them when they cried vnto him: but God reckons and calleth theſe their cryings howlings and not prayers, becauſe they were only grieued for their afflictions, but nothing touch<g ref="char:EOLhyphen"/>ed for their ſinnes, which brought the hand of God vpon them. And they were much more deſirous of corne and wine, then of the fauour of God and the graces of his ſpirit.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Alſo the praiers that are only ſpent about carnall things come not from the loue of God, but from the loue of the world. 1. Ioh. 2. 15.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> According to the greatnſſe of our deſire after earthly things, ſo is the greatneſſe of our pride: now (God wee know) reſiſteth the proud, and raiſeth vp, quickeneth, and comforteth the lowlie: and as any man is more humble, ſo hee doth more thirſt after and labour for the grace of God; and therefore he onely is fitted for it, and all other mercies with it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> For inſtruction: When wee appoach vnto the throne of grace in prayer, let vs be ſure that we bee moſt earneſt for heauenly things: for that will bee a teſtimonie vnto our conſciences that wee loue God more then wee loue the world. And this benefit we ſhall bee certaine of, that wee cannot beſtow them vpon our luſts: for faith cannot bee beſtowed vpon our luſts, ſeeing it <hi>purifieth the heart:</hi> re<g ref="char:EOLhyphen"/>pentance <note place="margin">Act. 15.</note> cannot be beſtowed vpon our luſts, becauſe that killeth our luſts: and ſo may wee ſay for euerie other grace of God, euerie one of which is abſolutely good in it ſelfe, and makes thoſe good that are poſſeſſers of them. Whereas all earthly things are either good or euill, accor<g ref="char:EOLhyphen"/>ding to the mind and affection of him that receiueth and vſeth them.</p>
+            <p>If they meet with a ſtrong and inordinate deſire, they corrupt and poyſon it further; if with an hart well ordered
+<pb n="27" facs="tcp:16841:14"/> and diſpoſed, they better it, and further it in grace, and godlineſſe.</p>
+            <p>But now further concerning ſpirituall things wee muſt vnderſtand, that they are not to be asked in words alone, but we muſt bring before God the feruent deſires of our ſoules, and intreat them as things that will indeede moſt content vs.</p>
+            <p>Trueth it is, that eaſe and pleaſure and credit vvould beſt pleaſe our nature: but wee muſt croſſe out fleſh, leſt our petitions be found carnall, and ſo bee reiected by the Lord: &amp; farther we muſt ſtriue to haue this witneſſe both from God and from our owne ſoules, that if we might ob<g ref="char:EOLhyphen"/>taine what we would, the deſires of our ſoules are, to haue the fauour of God and the chiefe fruits thereof, euen <hi>Loue and Ioy, and Peace, Temperance, Patience,</hi> and the reſt of the graces of Gods ſpirit. Which if wee can in any good meaſure find in our ſelues, wee may be comforted in aſſu<g ref="char:EOLhyphen"/>rance of the performance of the promiſe, <hi>That ſeeking firſt</hi> 
+               <note place="margin">Mat. 6. 33</note> 
+               <hi>the kingdome of heauen, and the righteouſnes thereof, all other things ſhall be miniſtred vnto vs.</hi>
+            </p>
+            <p>Verſe 4. <hi>Yee adulterers and adultereſſes, know ye not, &amp;c.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> They might reply vpon that which hath bin ſpoken, ſay<g ref="char:EOLhyphen"/>ing, What if we doe deſire outward things, that vvee may liue as pleaſantly, and with as great credit as others doe? is that any ſuch great matter?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To this hee maketh anſwere with great indignation, ſaying, <hi>Yee Adulterers and adultereſſes, knowe yee not, that the loue of the world is the enmitie of God?</hi> As if hee had ſaid, Haue yee heard ſo many Sermons, beene at ſo many Conferences, read and heard ſo much of the Scri<g ref="char:EOLhyphen"/>tures, and doe you not know thus much, that <hi>the loue of the world is enmitie with God?</hi> Doe you thinke that hee will deale with you as an husband, when you are filthie Harlots? Doe you imagine that hee vvill giue you that, that may maintaine and vphold you in your pride and ambition, &amp; earthly affections? No ſurely, he that in ſuch ſort followeth the world is a friend vnto the world, and
+<pb n="28" facs="tcp:16841:15"/> therfore an enemie to God, and God will ſhew himſelfe no friend vnto him. <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>7</label> 
+               <note place="margin">The loue of the world is ſpirituall a<g ref="char:EOLhyphen"/>dulterie.</note> The doctrine hence to be learned is, that, It is a moſt dangerous and damnable adulterie to ſet our minds on earthly things.</p>
+            <p>There is a reaſon hereof in the Text. It bringeth vs out of fauour with God, and maketh vs enemies vnto him: &amp; is it not a dangerous thing for the creature to ſtand in op<g ref="char:EOLhyphen"/>poſition againſt his Creator? This ſpirituall adulterie is worſe then that againſt the ſeuenth commandement: for this is againſt the firſt Table: that againſt the ſecond. Be<g ref="char:EOLhyphen"/>ſides, when <hi>Dauid</hi> liued in that ſinne of adultery, he could not be ſaid to be the enemie of God: but whoſoeuer liueth in this ſpiritual whoredom, is proclaimed to be the Lords foe. For ſuch doe withdraw their hearts from God, and ſo bring the curſe and vengeance of God vpon themſelues <note place="margin">Ier. 17</note> without timely repentance. Therefore it is ſaid, Thou haſt deſtroyed all them that go a whoring from thee: whether <note place="margin">Pſal. 73. 27</note> it be after pleaſures, or co<g ref="char:cmbAbbrStroke">̄</g>modities, or preferments, about the which almoſt all the world is ſet aworke, and being ſo inclined, all that can be deuiſed is little enough, nay too little to pleaſe them: they think nothing ſufficient that is done for them, and that all ſhould doe ſeruice to them, &amp; they to none: being as gowtie leggs that muſt haue all the anointing and binding and looking to, they being able to doe nothing againe in way of requitall.</p>
+            <p>For inſtruction, that vvee ſhould bee exceedingly humbled, as for other great corruptions before our cal<g ref="char:EOLhyphen"/>lings, ſo for this that vvee haue beene guiltie of ſpirituall adulterie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Many will bragge, vvhen they are reprooued for the breach of the Sabbath, for ſwearing, &amp;c. that though their Miniſter finde fault with them, yet they hope they are ho<g ref="char:EOLhyphen"/>neſt men and women: But can they deny that they buſie themſelues continually about the droſſe of this World? would they not rather be rich then godly? Doe they not eſteeme more of a good bargain, then of a good Sermon? And ſo for others: Doe they not profeſſe, that if you take
+<pb n="29" facs="tcp:16841:15"/> away their vaine pleaſures, you take away their life? And doe not theſe things argue in them a loue of this vvorld? It cannot bee denied; and what then will follow, but that they are diſhoneſt men and women, adul<g ref="char:EOLhyphen"/>terers and adultereſſes, as here the holy Ghoſt tearmeth them? And hence commeth it to paſſe of tentimes, that be<g ref="char:EOLhyphen"/>cauſe they are tainted with ſpirituall adulterie, they are by the iuſt reuenging hand of God, giuen vp to corporall a<g ref="char:EOLhyphen"/>dulterie, at leaſt they goe vnder the reproch thereof a<g ref="char:EOLhyphen"/>mongſt men, that ſo they might bee drawne from that which is more dangerous in the ſight of God.</p>
+            <p>Further, this is to be conſidered, that if men doe follow after but one of their luſtes, they come vnder this cenſure: as if a woman doe runne after one adulterer onely, ſhe is to be condemned as an adultereſſe: ſo if a man be not ambi<g ref="char:EOLhyphen"/>tious, if yet he be couetous: or on the contrary, if he be not couetous, yet if he bee ambitious; or if neither of thoſe vices carie him away, yet if hee bee voluptuous, that is e<g ref="char:EOLhyphen"/>nough to bring him vnder the blame and ſhame of a ſpiri<g ref="char:EOLhyphen"/>tuall adulterer, &amp; ſo to make him liable to Gods vengea<g ref="char:cmbAbbrStroke">̄</g>ce.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Secondly, let this inſtruct vs to be content with a mean eſtate, and to be reſtrained of thoſe delights and pleaſures that others doe enioy: for the world is a dangerous and pernitious baite, and moſt men run a whoring after it, and the moſt godly and religious haue a vvanton eye, which is too too apt to be looking after the ſame. And therfore as a wiſe Father if he perceiue his ſonne inclined vnto vvn<g ref="char:EOLhyphen"/>tonneſſe, will withdraw his hand from him, and withhold all ſuch things as might be for the nouriſhing of that ſin: ſo dealeth our wiſe God with vs, when hee ſeeth his chil<g ref="char:EOLhyphen"/>dren to be addicted to ſpirituall wantonneſſe, that they looke after new gawds, and vaine faſhions, and would not onely be commended for their godlineſſe, but for their coates, for their attendants, for their buildings, for their cattell, &amp;c.</p>
+            <p>When the Lord (I ſay) perceiueth this diſpoſition in them, he keepeth them lowe, and curbeth their deſires,
+<pb n="30" facs="tcp:16841:16"/> which we ſhould account a very great and ſweet fauour of God: for little doe wee know vvhat wee ſhould otherwiſe come vnto. If a man bee inclining to ſtrong drinke, and haue a weake head, ſo that he will quickly bee ouertaken, it is a benefit for him to be reſtrained therefrom: now the Lord is wiſe, and ſeeth the inclination of his children vn<g ref="char:EOLhyphen"/>to great proſperity, but he knoweth withall, that they haue but weake braines to beare it; and therefore in ſtead of wealth and eaſe, and credit, he ſendeth wantes and paines and diſgraces which are far better for them.</p>
+            <p>Thou that wouldeſt faine haue more, doſt thou vſe that well that thou haſt alreadie? If not, better creep on the earth with ſafetie, then climbe on high to take a greater fall: the Lord knoweth thy need and thy ſtrength better then thy ſelfe: reſigne vp thy will vnto him and it ſhall go well with thee.</p>
+            <p>
+               <hi>Whoſoeuer therfore will be a friend of the world.</hi> The word in the originall implyeth ſuch a willingneſſe, as is ioyned with deliberation and conſultation: ſo that the meaning is, that hee that aduiſedly ſetteth himſelfe to bee like the world, he is an enemie of God.</p>
+            <p>In that is is ſaid, <hi>Hee that will bee;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>8</label> 
+               <note place="margin">We are eſtee<g ref="char:EOLhyphen"/>med as we are affected.</note>the doctrine is, that, God eſteems of euerie man &amp; woman, according to their will and affection.</p>
+            <p>
+               <hi>Abraham</hi> is highly commended and rewarded of God, for ſacrificing his ſonne, though he did not the worke, be<g ref="char:EOLhyphen"/>cauſe <note place="margin">Gen. 22. 16</note> he ſhewed his readines and willingnes to doe it.</p>
+            <p>In that excellent prayer which was made at the dedica<g ref="char:EOLhyphen"/>tion of the temple, <hi>Salomon</hi> (directed by the holy ghoſt) <note place="margin">2. Chro. 6. 30</note> offreth vp this ſuplication in the behalfe of al the church, that God would reward euery one as he knew their hearts. And <hi>Dauid</hi> his father, guided by the ſame holy ſpirit, gaue as large allowance to the 200 wearie and faint ſouldiers, that ſtaid at the riuer Beſor, as to the reſt that ventured their liues in the battel and got the prey and victorie. And alſo made this law and ordinance for euer in Iſrael, 1. Sam. 30. 23. 24. 25. Now if <hi>Dauid</hi> had that care to reward the
+<pb n="31" facs="tcp:16841:16"/> deſire as much as the deed, where he had made no pro<g ref="char:EOLhyphen"/>miſe, and was intreated to the contrary by the greateſt part of his ſouldiours, and could not performe this work with<g ref="char:EOLhyphen"/>out ſome loſſe to him ſelfe and them who had helped him in the battel, then how much more will God accept the de<g ref="char:EOLhyphen"/>ſire for the deede, hauing promiſed ſo to doe, 2. Cor. 8. 12. and being able to performe it without any charge to him ſelfe, or hindrance to any other?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> All good and holy deſires come from God, and therfore he accepts them, Phil. 2. 13. and contrary, euil deſires come from the fleſh and Satan, and therefore he hates them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Our deſires are the ſeeds from which all our wordes and works do ſpring &amp; growe, and according to the goodnes or badnes therof, al our actions are good or euil. The ſame ſeruice, which if it be done with a perfect heart and wil<g ref="char:EOLhyphen"/>ling minde, is moſt pleaſing vnto God; if it be done grud<g ref="char:EOLhyphen"/>gingly or hypocritically is abominable in his ſight. Iſai. 1. 14. 15.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Where there is a true deſire, there will be a true and ear<g ref="char:EOLhyphen"/>neſt endeauour, to avoid all lets wherby the work might be hindred, and to vſe all good meanes, whereby it might be effected; as appeareth in <hi>Abraham,</hi> who would not ſuffer his ſeruants to be preſent in the place where he pur<g ref="char:EOLhyphen"/>poſed to ſacrifice his ſonne, leſt they ſhould haue ſought to haue ſtaid him therefrom. And though hee trauelled three dayes iourney; yet becauſe he would preuentall lets and hindrances, he carried fire, drie wood, and a knife with him. So then an vnfained heart reſteth not onely in wiſhes, but ſheweth it ſelfe in conſtant indeauours, which God be<g ref="char:EOLhyphen"/>holdeth &amp; rewardeth, as well as if the worke were brought to perfection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Firſt, for terror vnto vngodly men, howſoeuer they be kept from many ſinnes, yet ſeeing their deſire was to haue committed them, and they are grieued that they cannot doe them, and would ſtill be readie to practiſe them, if any occaſion or opportunitie were offred, therefore all thoſe ſinnes ſhall be charged vpon them, and they throughly puniſhed for the ſame.</p>
+            <pb n="32" facs="tcp:16841:17"/>
+            <p> Secondly, this is a comfort vnto Gods Saints: it is ſaid, <hi>He that will be a friend to the world, maketh himſelf an enemie to God:</hi> but as for thoſe that would not be ſo, but are wil<g ref="char:EOLhyphen"/>ling to forſake their worldly luſts, and mourne for them, and deſire to keep their harts in the loue and feare of God; they make themſelues friends to God, and he will ſhewe himſelfe fauourable and mercifull to them for euermore. So for other ſinnes, if we find much vnbeleefe, but would haue faith; if we finde a diſpoſition to pride and enuie, but would be humble, and reioyce at the proſperitie of others &amp;c. the Lord will accept of vs, as of faithfull, humble and charitable perſons.</p>
+            <p>So when wee take our ſelues apart to mourne for our ſinnes, if we find not that remorſe for our iniquities, nor that meaſure of humiliation, nor that aſſurance of reconci<g ref="char:EOLhyphen"/>liation that ſhould be in vs, but rather much deadneſſe and diſtraction, yet if our deſire in ſetting vpon that worke, were good, the Lord will take it in good worth: <hi>If wee doe</hi> 
+               <note place="margin">Rom. 7. See M<hi rend="sup">r</hi>. <hi>Dods</hi> Sermon on Iſa. 1. 19. &amp;c. If yee conſent to obey. &amp;c.</note> 
+               <hi>the euill that we would not, and cannot doe the good that wee would: it is not we but ſinne that dwelleth in vs.</hi> Which God will neuer lay vnto our charge: but rather comfort our ſoules as Chriſt did his Diſciples, <hi>Your ſpirit is wil<g ref="char:EOLhyphen"/>ling, but your fleſh is weake.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:16841:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
